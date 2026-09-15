@@ -1,0 +1,11 @@
+Metabolites,FC,log2(FC),raw.pval,Negative LOG10(p)
+Hypotaurine,1.9239,0.94406,0.0014956,2.8252
+Creatinine,1.8309,0.87255,0.0037334,2.4279
+N-Acetylaspartate,1.9357,0.95287,0.0051207,2.2907
+Phosphoenolpyruvate,1.5703,0.65101,0.0066893,2.1746
+Lysine,2.0923,1.0651,0.018375,1.7358
+Beta-Alanine,1.6422,0.71564,0.027439,1.5616
+Citrate,1.5535,0.63548,0.030823,1.5111
+Fructose 6-Phosphate,2.0975,1.0687,0.032329,1.4904
+Acetyl CoA,0.63902,-0.64607,0.040693,1.3905
+Dihydroxyacetone Phosphate (DHAP),2.2641,1.179,0.043449,1.362
