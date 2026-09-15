@@ -11,7 +11,6 @@ Email: [sstern@univ.haifa.ac.il  and os10@iitbbs.ac.in]
 
 ## :pray: Acknowledgement 
 
-This work was supported by the Artificial Intelligence Research Center at the University of Haifa.
 The authors would like to thank Ms. Bella Agranovich and Ifat Abramovich for expert guidance in metabolomics experiments, Dr. Sandra Horschitz (Hector Institute) for generating iPSCs, and Dr. Limor Kalfon (Galilee Medical Center, Israel) for obtaining patient blood samples.
 
 ## 🤝 Join the Collaboration
